@@ -1,0 +1,29 @@
+[
+    {
+        "name":"Pixel",
+        "price":500,
+        "featured":true,
+        "company":"Google"
+    },
+    {
+        "name":"iphone15",
+        "price":400,
+        "featured":true,
+        "company":"Apple"
+    },
+    {
+        "name":"Redmi",
+        "price":100,
+        "company":"Xiomi"
+    },
+    {
+        "name":"Galaxy",
+        "price":300,
+        "company":"Samsung"
+    },
+    {
+        "name":"Nord",
+        "price":450,
+        "company":"OnePlus"
+    }
+]
